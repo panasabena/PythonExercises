@@ -1,0 +1,8 @@
+#3) El siguiente codigo pretende realizar una media entre 3 numeros
+#pero algo anda mal, ¿Podes identificar el problema y solucionarlo?
+
+num_1 = 9
+num_2 = 3
+num_3 = 6
+media = (num_1 + num_2 + num_3) / 3
+print("La nota media es", media)
