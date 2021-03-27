@@ -7,4 +7,6 @@ a=input("Ingrese el valor de a: ")
 while len(a)==False:
     print ("Debe ingresar un valor")
     a=input("Ingrese a nuevamente: ")
+else:
+    print('No puede ingresar un valor vacio')
     
